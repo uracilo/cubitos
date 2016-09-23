@@ -1,0 +1,23 @@
+.container{
+	height: 100vh;
+	width: 80%;
+	background-color: yellow;
+	margin:auto;
+}
+
+.content_cube{
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+
+.cube{
+	background-color: black;
+	height: 100%;
+	margin: 5px;
+
+
+
+}
+
+
